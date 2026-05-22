@@ -75,7 +75,7 @@ export const Intervention = () => {
                   <th className="px-6 py-3.5">Ref</th>
                   <th className="px-6 py-3.5">Afectado/a</th>
                   <th className="px-6 py-3.5">Ubicación / Lugar</th>
-                  <th className="px-6 py-3.5">Tipo de Servicio</th>
+                  <th className="px-6 py-3.5">Tipo de Intervención</th>
                   <th className="px-6 py-3.5">Operador</th>
                 </tr>
               </thead>
